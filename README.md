@@ -3,3 +3,5 @@
 ![ Alt Auth](./Auth.png)
 
 ![ Alt Get Current User](./Get%20current%20user.png)
+
+![ Alt variables](./Variables.png)
